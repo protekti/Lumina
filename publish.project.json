@@ -1,5 +1,5 @@
 {
-	"name": "nuclear-publish",
+	"name": "lumina-publish",
 	"tree": {
 		"$className": "DataModel",
 		"ReplicatedStorage": {
