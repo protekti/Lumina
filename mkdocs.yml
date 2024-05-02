@@ -1,7 +1,7 @@
 site_name: Nuclear
-site_url: https://isophes.github.io/Nuclear
+site_url: https://protekti.github.io/Lumina/
 repo_name: isophes/Nuclear
-repo_url: https://github.com/iSophes/Nuclear
+repo_url: https://github.com/protekti/Lumina
 
 extra:
   version:
@@ -10,17 +10,17 @@ extra:
 theme:
   name: material
   custom_dir: docs/assets/overrides
-  logo: assets/NuclearLogo.png
-  favicon: assets/NuclearLogo.png
+  logo: assets/Lumina.png
+  favicon: assets/Lumina.png
   palette:
     - media: "(prefers-color-scheme: dark)"
-      scheme: nuclear-dark
+      scheme: Lumina-dark
       toggle:
         icon: octicons/sun-24
         name: Switch to light theme
 
     - media: "(prefers-color-scheme: light)"
-      scheme: nuclear-light
+      scheme: Lumina-light
       toggle:
         icon: octicons/moon-24
         name: Switch to dark theme
