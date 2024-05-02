@@ -1,55 +1,30 @@
-# Lumina
+<h1 align="center" id="title">Lumina UI/UX</h1>
 
-Lumina is a free and easy-to-access UI plugin for ROBLOX, designed to provide developers with a streamlined solution for creating user interfaces within their games. Inspired by the simplicity and versatility of Bootstrap, Lumina aims to empower developers of all skill levels to enhance the user experience of their ROBLOX creations.
+<p align="center"><img src="https://socialify.git.ci/protekti/Lumina/image?description=1&amp;descriptionEditable=Lumina%20is%20a%20free%20and%20easy-to-access%20UI%20plugin%20for%20ROBLOX%2C%20designed%20to%20provide%20developers%20with%20a%20streamlined%20solution%20for%20creating%20user%20interfaces%20within%20their%20games.%20Inspired%20by%20the%20simplicity%20and%20versatility%20of%20Bootstrap%2C%20Lumina%20aims%20to%20empower%20developers%20of%20all%20skill%20levels%20to%20enhance%20the%20user%20experience%20of%20their%20ROBLOX%20creations.&amp;font=Inter&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
-## Features
+<p id="description">Lumina is a free and easy-to-access UI plugin for ROBLOX designed to provide developers with a streamlined solution for creating user interfaces within their games. Inspired by the simplicity and versatility of Bootstrap Lumina aims to empower developers of all skill levels to enhance the user experience of their ROBLOX creations.</p>
 
-- **Simplified UI Development**: Lumina simplifies the process of creating user interfaces in ROBLOX, offering a range of pre-designed components and styles.
+<h2>Project Screenshots:</h2>
+
+<img src="https://cdn.discordapp.com/attachments/799660302626586625/1235607851121119285/Zrzut_ekranu_2676.png?ex=6634fcfc&amp;is=6633ab7c&amp;hm=537e2b617ad6402df135ec6c0bd76f53ceaf7950912c2d335222be10add0ac4e&amp;" alt="project-screenshot" width="100" height="1/">
+
+<img src="https://cdn.discordapp.com/attachments/799660302626586625/1235608181128826890/Zrzut_ekranu_2677.png?ex=6634fd4a&amp;is=6633abca&amp;hm=1af98788a0e6f7c671ee676d96185000445dcb67538ba05400ed3a7cc375def3&amp;" alt="project-screenshot" width="1000" height="400/">
+
+<img src="https://cdn.discordapp.com/attachments/799660302626586625/1235608181410107393/Zrzut_ekranu_2678.png?ex=6634fd4a&amp;is=6633abca&amp;hm=c83957486208e18fc5788bae43d8e2bd1644fa0e5585bcd29053dc4c5cbf7060&amp;" alt="project-screenshot" width="1000" height="400/">
+
   
-- **Responsive Design**: Ensure your UI looks great across various devices and screen sizes with Lumina's responsive design principles.
   
-- **Customization**: Tailor Lumina components to fit your game's aesthetic and branding with customizable styles and themes.
-  
-- **Easy Integration**: Seamlessly integrate Lumina into your ROBLOX project with straightforward installation and usage instructions.
+<h2>🧐 Features</h2>
 
-## Getting Started
+Here're some of the project's best features:
 
-To start using Lumina in your ROBLOX game, simply follow these steps:
+*   Easy to use roblox plugin
+*   Many different styles
+*   Easy to customise
+*   1 click and its imported to your game
 
-1. **Download**: Clone or download the Lumina repository to your local machine.
-  
-2. **Installation**: Import the Lumina plugin into your ROBLOX Studio workspace.
-  
-3. **Usage**: Refer to the documentation and examples provided to start incorporating Lumina components into your game.
+<h2>🛠️ Installation Steps:</h2>
 
-For more detailed instructions, please refer to the [Lumina Documentation](link-to-docs).
+<p>1. Coming soon</p>
 
-## Contributing
-
-We welcome contributions from the ROBLOX developer community to help improve and expand Lumina. Whether it's fixing bugs, adding new features, or improving documentation, your contributions are invaluable to the project's success. To contribute, please follow these guidelines:
-
-1. **Fork** the Lumina repository.
-  
-2. **Create** a new branch for your feature or bug fix.
-  
-3. **Commit** your changes with clear and descriptive messages.
-  
-4. **Push** your changes to your fork and submit a pull request.
-
-Please review our [Contribution Guidelines](link-to-contributing-guidelines) for more information.
-
-## License
-
-Lumina is licensed under the [MIT License](link-to-license), allowing for free use, modification, and distribution. By using Lumina, you agree to abide by the terms outlined in the license agreement.
-
-## Support
-
-If you encounter any issues, have questions, or would like to provide feedback, please don't hesitate to [reach out](link-to-contact). Our team is here to help and continually improve Lumina based on user feedback.
-
-## Acknowledgements
-
-We would like to thank the ROBLOX developer community for their support and contributions to Lumina. Together, we can create better experiences for ROBLOX players worldwide.
-
----
-
-[![Lumina Logo](path-to-logo)](link-to-repo)
+<h2>💖Like my work?</h2>
