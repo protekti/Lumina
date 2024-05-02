@@ -17,7 +17,7 @@
 	margin-top: 0;
 }
 
-#nuclear-home-main {
+#Lumina-home-main {
 	position: relative;
 	min-height: calc(100vh - 5rem - var(--distance-to-top-of-page));
 	padding-bottom: var(--distance-to-top-of-page);
@@ -31,7 +31,7 @@
 	justify-content: center;
 }
 
-#nuclear-home-main::before {
+#Lumina-home-main::before {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -43,7 +43,7 @@
 	background-position: right center;
 }
 
-#nuclear-home-main-inner {
+#Lumina-home-main-inner {
 	max-width: 50rem;
 	translate: calc(min(0px, 25rem - 50vw) * 0.8) 0;
 	border: 0.5em solid transparent;
@@ -51,29 +51,29 @@
 }
 
 @media screen and (max-aspect-ratio: 16/9) {
-	#nuclear-home-main-inner {
+	#Lumina-home-main-inner {
 		translate: 0;
 	}
-	#nuclear-home-main::before {
+	#Lumina-home-main::before {
 		filter: blur(2rem);
 		opacity: 0.5;
 	}	
 }
 
-#nuclear-home-main-inner > h1 {
+#Lumina-home-main-inner > h1 {
 	margin-bottom: 1rem;
 }
 
-#nuclear-home-main-inner > nav{
+#Lumina-home-main-inner > nav{
 	display: flex;
 	gap: 0.5em;
 }
 
-#nuclear-home-main-inner > nav > a {
+#Lumina-home-main-inner > nav > a {
 	display: flex;
 	padding: 0.25rem 0.75rem;
-	background-color: var(--nuclear-fg-1);
-	color: var(--nuclear-bg-1);
+	background-color: var(--Lumina-fg-1);
+	color: var(--Lumina-bg-1);
 	font-weight: 600;
 	font-size: 0.75rem;
 	transition: color 0s;
@@ -81,11 +81,11 @@
 	transition: background-color 125ms;
 }
 
-#nuclear-home-main-inner > nav > a:is(:hover, :focus) {
-	background-color: var(--nuclear-accent);
+#Lumina-home-main-inner > nav > a:is(:hover, :focus) {
+	background-color: var(--Lumina-accent);
 }
 
-#nuclear-home-scroll {
+#Lumina-home-scroll {
 	position: relative;
 	margin-left: auto;
 	margin-right: auto;
@@ -99,12 +99,12 @@
 	width: max-content;
 	padding: 0.5em;
 
-	background-color: var(--nuclear-bg-1);
+	background-color: var(--Lumina-bg-1);
 	font-weight: 700;
 	overflow: hidden;
 }
 
-#nuclear-home-scroll::after {
+#Lumina-home-scroll::after {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -112,12 +112,12 @@
 	left: -200%;
 	right: -200%;
 	height: 100%;
-	background: linear-gradient(to right, var(--nuclear-bg-1) 40%, transparent 45%, transparent 55%, var(--nuclear-bg-1) 60%);
+	background: linear-gradient(to right, var(--Lumina-bg-1) 40%, transparent 45%, transparent 55%, var(--Lumina-bg-1) 60%);
 	opacity: 0.25;
 	animation: home-scroll-shimmer 2s linear infinite;
 }
 
-#nuclear-home-scroll::before {
+#Lumina-home-scroll::before {
 	content: "↓";
 	display: inline-block;
 	margin-right: 0.5em;
@@ -144,29 +144,29 @@
 }
 
 
-#nuclear-home-belowfold {
+#Lumina-home-belowfold {
 	max-width: 50rem;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 1rem;
 }
 
-#nuclear-home-belowfold > h2.first::before {
+#Lumina-home-belowfold > h2.first::before {
 	content: "➀";
 	margin-right: 0.75rem;
 }
 
-#nuclear-home-belowfold > h2.second::before {
+#Lumina-home-belowfold > h2.second::before {
 	content: "➁";
 	margin-right: 0.75rem;
 }
 
-#nuclear-home-belowfold > h2.third::before {
+#Lumina-home-belowfold > h2.third::before {
 	content: "➂";
 	margin-right: 0.75rem;
 }
 
-#nuclear-home {
+#Lumina-home {
 	animation: home-fade-in 0.5s ease 0.5s;
 	animation-fill-mode: forwards;
 }
@@ -184,7 +184,7 @@
 
 @media screen and (min-width: 160rem) {
 	.md-header[data-md-state=shadow] {
-		box-shadow: 0 1rem 1rem var(--nuclear-bg-1) !important;
-		background-color: var(--nuclear-bg-1);
+		box-shadow: 0 1rem 1rem var(--Lumina-bg-1) !important;
+		background-color: var(--Lumina-bg-1);
 	}
 }
