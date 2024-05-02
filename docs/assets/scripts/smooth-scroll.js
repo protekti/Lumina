@@ -14,10 +14,10 @@ document.body.addEventListener("click", e => {
     if(link != null) {
         if(link.href.includes("#")) {
             // enable smooth scrolling when clicking on section links
-            document.body.parentNode.classList.remove("nuclear-inhibit-smooth-scrolling");
+            document.body.parentNode.classList.remove("lumina-inhibit-smooth-scrolling");
         } else {
             // disable it everywhere else
-            document.body.parentNode.classList.add("nuclear-inhibit-smooth-scrolling");
+            document.body.parentNode.classList.add("lumina-inhibit-smooth-scrolling");
         }
     }
 })
