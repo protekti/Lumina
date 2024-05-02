@@ -26,5 +26,3 @@ Here're some of the project's best features:
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Coming soon</p>
-
-<h2>💖Like my work?</h2>
