@@ -1,26 +1,26 @@
 * {
-	--md-default-fg-color:               var(--lumina-fg-1);
-	--md-default-fg-color--light:        var(--lumina-fg-2);
-	--md-default-fg-color--lighter:      var(--lumina-fg-3);
-	--md-default-fg-color--lightest:     var(--lumina-fg-3);
+	--md-default-fg-color:               var(--Lumina-fg-1);
+	--md-default-fg-color--light:        var(--Lumina-fg-2);
+	--md-default-fg-color--lighter:      var(--Lumina-fg-3);
+	--md-default-fg-color--lightest:     var(--Lumina-fg-3);
 
-	--md-default-bg-color:               var(--lumina-bg-1);
-	--md-default-bg-color--light:        var(--lumina-bg-2);
-	--md-default-bg-color--lighter:      var(--lumina-bg-3);
-	--md-default-bg-color--lightest:     var(--lumina-bg-3);
+	--md-default-bg-color:               var(--Lumina-bg-1);
+	--md-default-bg-color--light:        var(--Lumina-bg-2);
+	--md-default-bg-color--lighter:      var(--Lumina-bg-3);
+	--md-default-bg-color--lightest:     var(--Lumina-bg-3);
 
 
 
-	--md-primary-fg-color:               var(--lumina-accent);
-	--md-primary-fg-color--light:        var(--lumina-accent-light);
-	--md-primary-fg-color--dark:         var(--lumina-accent-dark);
+	--md-primary-fg-color:               var(--Lumina-accent);
+	--md-primary-fg-color--light:        var(--Lumina-accent-light);
+	--md-primary-fg-color--dark:         var(--Lumina-accent-dark);
 
-	--md-accent-fg-color:                var(--lumina-accent-hover);
-	--md-accent-fg-color--transparent:   var(--lumina-accent-hover-a10);
+	--md-accent-fg-color:                var(--Lumina-accent-hover);
+	--md-accent-fg-color--transparent:   var(--Lumina-accent-hover-a10);
 
 	--md-typeset-color:                var(--md-default-fg-color);
 	--md-typeset-a-color:              var(--md-primary-fg-color);
-	--md-typeset-mark-color:           var(--lumina-orange-alpha50);
+	--md-typeset-mark-color:           var(--Lumina-orange-alpha50);
 	--md-typeset-del-color:            hsla(6, 90%, 60%, 0.15);
 	--md-typeset-ins-color:            hsla(150, 90%, 44%, 0.15);
 	--md-typeset-kbd-color:            hsla(0, 0%, 98%, 1);
@@ -28,12 +28,12 @@
 	--md-typeset-kbd-border-color:     hsla(0, 0%, 72%, 1);
 	--md-typeset-table-color:          hsla(0, 0%, 0%, 0.12);
 
-	--md-admonition-fg-color:          var(--lumina-fg-1);
-	--md-admonition-bg-color:          var(--lumina-bg-2);
+	--md-admonition-fg-color:          var(--Lumina-fg-1);
+	--md-admonition-bg-color:          var(--Lumina-bg-2);
 
-	--md-footer-fg-color:              var(--lumina-fg-2);
-	--md-footer-fg-color--light:       var(--lumina-fg-2);
-	--md-footer-fg-color--lighter:     var(--lumina-fg-2);
-	--md-footer-bg-color:              var(--lumina-bg-1);
-	--md-footer-bg-color--dark:        var(--lumina-bg-1);
+	--md-footer-fg-color:              var(--Lumina-fg-2);
+	--md-footer-fg-color--light:       var(--Lumina-fg-2);
+	--md-footer-fg-color--lighter:     var(--Lumina-fg-2);
+	--md-footer-bg-color:              var(--Lumina-bg-1);
+	--md-footer-bg-color--dark:        var(--Lumina-bg-1);
   }
