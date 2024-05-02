@@ -3,7 +3,7 @@
 		scroll-behavior: smooth;
 	}
 
-	:root.nuclear-inhibit-smooth-scrolling {
+	:root.Lumina-inhibit-smooth-scrolling {
 		scroll-behavior: auto;
 	}
 }
@@ -16,8 +16,8 @@
 
 .md-header[data-md-state=shadow] {
 	box-shadow: 
-		0 0 0.35rem 0.5rem var(--nuclear-bg-1) !important;
-	background-color: var(--nuclear-bg-1);
+		0 0 0.35rem 0.5rem var(--Lumina-bg-1) !important;
+	background-color: var(--Lumina-bg-1);
 }
 
 @media screen and (min-width: 160rem) {
@@ -61,8 +61,8 @@
 
 .md-top {
 	box-shadow: none !important;
-	background-color: var(--nuclear-fg-2);
-	color: var(--nuclear-bg-1);
+	background-color: var(--Lumina-fg-2);
+	color: var(--Lumina-bg-1);
 	z-index: 1000;
 	border-radius: 0.25rem;
 	padding: 0.25rem 0.75rem;
@@ -80,8 +80,8 @@
 }
 
 .md-top:is(:focus, :hover) {
-	background-color: var(--nuclear-accent);
-	color: var(--nuclear-bg-1);
+	background-color: var(--Lumina-accent);
+	color: var(--Lumina-bg-1);
 }
 
 @media screen and (min-width: 90rem) {
@@ -145,7 +145,7 @@
 
 .md-search__overlay,
 .md-overlay {
-    background-color: var(--nuclear-smoke);
+    background-color: var(--Lumina-smoke);
 }
 
 .md-search__form {
@@ -154,7 +154,7 @@
 }
 
 .md-search__form:hover {
-	background-color: var(--nuclear-bg-2);
+	background-color: var(--Lumina-bg-2);
   }
 
 .md-search__input::placeholder,
@@ -203,7 +203,7 @@
 }
 
 .md-search__scrollwrap {
-	background-color: var(--nuclear-bg-2);
+	background-color: var(--Lumina-bg-2);
 }
 
 .md-search__output,
@@ -213,7 +213,7 @@
 }
 
 [data-md-toggle="search"]:checked ~ .md-header .md-search__form {
-	background-color: var(--nuclear-bg-2);
+	background-color: var(--Lumina-bg-2);
 	border-radius: 0.25rem 0.25rem 0 0;
 	box-shadow: none;
 	color: var(--md-default-fg-color);
@@ -228,7 +228,7 @@
 }
 
 .md-search-result__teaser {
-	color: var(--nuclear-fg-3);
+	color: var(--Lumina-fg-3);
 }
 
 .md-search-result__title {
@@ -265,15 +265,15 @@
 }
 
 .md-input {
-	background: var(--nuclear-bg-2);
+	background: var(--Lumina-bg-2);
 }
 
 .md-input:not(:hover, :focus) {
-	border-bottom-color: var(--nuclear-grey-a10) !important;
+	border-bottom-color: var(--Lumina-grey-a10) !important;
 }
 
 .md-input:focus {
-	--md-accent-fg-color: var(--nuclear-accent);
+	--md-accent-fg-color: var(--Lumina-accent);
 }
 
 .md-input::placeholder {
@@ -288,10 +288,10 @@
 }
 
 ::selection {
-	background-color: var(--nuclear-magenta-n1);
-	color: var(--nuclear-grey-10);
+	background-color: var(--Lumina-magenta-n1);
+	color: var(--Lumina-grey-10);
 }
 
-#nuclear-home {
+#Lumina-home {
 	opacity: 0;
 }
