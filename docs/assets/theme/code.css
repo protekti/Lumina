@@ -1,39 +1,39 @@
-[data-md-color-scheme="nuclear-light"] {
-	--md-code-fg-color:                var(--nuclear-grey-9);
-	--md-code-bg-color:                var(--nuclear-grey-2);
+[data-md-color-scheme="Lumina-light"] {
+	--md-code-fg-color:                var(--Lumina-grey-9);
+	--md-code-bg-color:                var(--Lumina-grey-2);
 
-	--md-code-hl-color:                var(--nuclear-accent-a20);
+	--md-code-hl-color:                var(--Lumina-accent-a20);
 	--md-code-hl-number-color:         hsl(290, 60%, 70%);
-	--md-code-hl-special-color:        var(--nuclear-grey-7);
-	--md-code-hl-function-color:       var(--nuclear-grey-7);
-	--md-code-hl-constant-color:       var(--nuclear-grey-7);
+	--md-code-hl-special-color:        var(--Lumina-grey-7);
+	--md-code-hl-function-color:       var(--Lumina-grey-7);
+	--md-code-hl-constant-color:       var(--Lumina-grey-7);
 	--md-code-hl-keyword-color:        hsl(40, 75%, 60%);
 	--md-code-hl-string-color:         hsl(330, 80%, 70%);
-	--md-code-hl-name-color:           var(--nuclear-grey-8);
-	--md-code-hl-operator-color:       var(--nuclear-grey-6);
-	--md-code-hl-punctuation-color:    var(--nuclear-grey-6);
-	--md-code-hl-comment-color:        var(--nuclear-grey-6);
-	--md-code-hl-generic-color:        var(--nuclear-grey-6);
-	--md-code-hl-variable-color:       var(--nuclear-grey-6);
+	--md-code-hl-name-color:           var(--Lumina-grey-8);
+	--md-code-hl-operator-color:       var(--Lumina-grey-6);
+	--md-code-hl-punctuation-color:    var(--Lumina-grey-6);
+	--md-code-hl-comment-color:        var(--Lumina-grey-6);
+	--md-code-hl-generic-color:        var(--Lumina-grey-6);
+	--md-code-hl-variable-color:       var(--Lumina-grey-6);
 }
 
-[data-md-color-scheme="nuclear-dark"] {
-	--md-code-fg-color:                var(--nuclear-grey-8);
-	--md-code-bg-color:                var(--nuclear-grey-2);
+[data-md-color-scheme="Lumina-dark"] {
+	--md-code-fg-color:                var(--Lumina-grey-8);
+	--md-code-bg-color:                var(--Lumina-grey-2);
 
-	--md-code-hl-color:                var(--nuclear-accent-a20);
+	--md-code-hl-color:                var(--Lumina-accent-a20);
 	--md-code-hl-number-color:         hsl(290, 60%, 70%);
-	--md-code-hl-special-color:        var(--nuclear-grey-7);
-	--md-code-hl-function-color:       var(--nuclear-grey-7);
-	--md-code-hl-constant-color:       var(--nuclear-grey-7);
+	--md-code-hl-special-color:        var(--Lumina-grey-7);
+	--md-code-hl-function-color:       var(--Lumina-grey-7);
+	--md-code-hl-constant-color:       var(--Lumina-grey-7);
 	--md-code-hl-keyword-color:        hsl(40, 75%, 60%);
 	--md-code-hl-string-color:         hsl(330, 80%, 70%);
-	--md-code-hl-name-color:           var(--nuclear-grey-8);
-	--md-code-hl-operator-color:       var(--nuclear-grey-6);
-	--md-code-hl-punctuation-color:    var(--nuclear-grey-6);
-	--md-code-hl-comment-color:        var(--nuclear-grey-6);
-	--md-code-hl-generic-color:        var(--nuclear-grey-6);
-	--md-code-hl-variable-color:       var(--nuclear-grey-6);
+	--md-code-hl-name-color:           var(--Lumina-grey-8);
+	--md-code-hl-operator-color:       var(--Lumina-grey-6);
+	--md-code-hl-punctuation-color:    var(--Lumina-grey-6);
+	--md-code-hl-comment-color:        var(--Lumina-grey-6);
+	--md-code-hl-generic-color:        var(--Lumina-grey-6);
+	--md-code-hl-variable-color:       var(--Lumina-grey-6);
 }
 
 .md-typeset code {
@@ -50,18 +50,18 @@
 }
 
 .highlighttable .linenos {
-	box-shadow: inset -.05rem 0 var(--nuclear-grey-3);
+	box-shadow: inset -.05rem 0 var(--Lumina-grey-3);
 }
 
 .highlight .hll {
 	box-shadow:
-		inset 0.125rem 0 var(--nuclear-accent),
+		inset 0.125rem 0 var(--Lumina-accent),
 		320px 0 var(--md-code-hl-color);	
-	background: linear-gradient(to left, var(--nuclear-accent-a20) 0%, var(--nuclear-accent-a10) 100%);
+	background: linear-gradient(to left, var(--Lumina-accent-a20) 0%, var(--Lumina-accent-a10) 100%);
 }
 
 .highlighttable .linenodiv pre {
-	color: var(--nuclear-grey-6);
+	color: var(--Lumina-grey-6);
 }
 
 .highlight .md-clipboard {
@@ -69,14 +69,14 @@
 }
 
 .highlight:hover .md-clipboard {
-	color: var(--nuclear-grey-5);
+	color: var(--Lumina-grey-5);
 }
 
 .highlight .md-clipboard:hover {
-	color: var(--nuclear-grey-10);
+	color: var(--Lumina-grey-10);
 }
 
 code:not(pre code, .highlight) {
-	background-color: var(--nuclear-bg-2) !important;
+	background-color: var(--Lumina-bg-2) !important;
 	color: inherit !important;
 }
