@@ -1,1 +1,26 @@
-[{"Name":"regular_button","ClassName":"TextButton","BorderColor3":null,"Position":[0, 0, 0],"Size":[0.878, 0,0.061, 0],"BackgroundColor3":[0, 123, 255],"TextColor3":[255, 255, 255],"Text":"Regular Button"}]
+{
+  "LayoutOrder": 0,
+  "Active": true,
+  "Interactable": true,
+  "GuiState": null,
+  "AnchorPoint": null,
+  "SizeConstraint": null,
+  "ZIndex": 1,
+  "AutomaticSize": null,
+  "Size": null,
+  "Visible": true,
+  "Position": null,
+  "SelectionOrder": 0,
+  "ClipsDescendants": false,
+  "BorderColor3": null,
+  "Text": "Regular Button",
+  "Selectable": true,
+  "Rotation": 0,
+  "Transparency": 0,
+  "Name": "TextButton",
+  "ClassName": "TextButton",
+  "BackgroundTransparency": 0,
+  "BorderMode": null,
+  "BorderSizePixel": 0,
+  "BackgroundColor3": null
+}
