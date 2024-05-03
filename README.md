@@ -6,7 +6,7 @@
   
   <h2>Project Screenshots</h2>
   
-  <img src="https://cdn.discordapp.com/attachments/799660302626586625/1235607851121119285/Zrzut_ekranu_2676.png?ex=6634fcfc&amp;is=6633ab7c&amp;hm=537e2b617ad6402df135ec6c0bd76f53ceaf7950912c2d335222be10add0ac4e&amp;" alt="project-screenshot" width="226" height="398">
+  <img src="https://cdn.discordapp.com/attachments/799660302626586625/1235607851121119285/Zrzut_ekranu_2676.png?ex=6634fcfc&amp;is=6633ab7c&amp;hm=537e2b617ad6402df135ec6c0bd76f53ceaf7950912c2d335222be10add0ac4e&amp;" alt="project-screenshot" width="226" height="798">
   
   <img src="https://cdn.discordapp.com/attachments/799660302626586625/1235608181128826890/Zrzut_ekranu_2677.png?ex=6634fd4a&amp;is=6633abca&amp;hm=1af98788a0e6f7c671ee676d96185000445dcb67538ba05400ed3a7cc375def3&amp;" alt="project-screenshot" width="569" height="50">
   
