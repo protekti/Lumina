@@ -1,4 +1,4 @@
-<img src="[https://cdn.discordapp.com/attachments/799660302626586625/1235893430920417330/L-removebg-preview.png](https://cdn.discordapp.com/attachments/799660302626586625/1235893430920417330/L-removebg-preview.png?ex=663606f3&is=6634b573&hm=e0c1a010e4e279d8bc1c77a521c7e197fbc89edeed7977c2fbf2ca28cf107ff4&)" alt="project-screenshot" width="200" height="200">
+<img src="logo.png" alt="project-screenshot" width="200" height="200">
 <h1 align="center" id="title">Lumina UI/UX</h1>
 
 <p id="description">Lumina is a free and easy-to-access UI plugin for ROBLOX designed to provide developers with a streamlined solution for creating user interfaces within their games. Inspired by the simplicity and versatility of Bootstrap Lumina aims to empower developers of all skill levels to enhance the user experience of their ROBLOX creations.</p>
