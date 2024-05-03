@@ -1,4 +1,4 @@
-<img src="logo.png" alt="project-screenshot" width="200" height="200" style="  display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="logo.png" alt="project-screenshot" style="  display: block; margin-left: auto; margin-right: auto; width: 50%;">
 <h1 align="center" id="title">Lumina UI/UX</h1>
 
 <p id="description">Lumina is a free and easy-to-access UI plugin for ROBLOX designed to provide developers with a streamlined solution for creating user interfaces within their games. Inspired by the simplicity and versatility of Bootstrap Lumina aims to empower developers of all skill levels to enhance the user experience of their ROBLOX creations.</p>
