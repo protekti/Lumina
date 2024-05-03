@@ -3,13 +3,13 @@
   "Active": true,
   "Interactable": true,
   "GuiState": null,
-  "AnchorPoint": null,
+  "AnchorPoint": [0.5,0.5],
   "SizeConstraint": null,
   "ZIndex": 1,
   "AutomaticSize": null,
-  "Size": null,
+  "Size": [0.876, 0,0.1, 0],
   "Visible": true,
-  "Position": null,
+  "Position": [0.5,0,0.5,0],
   "SelectionOrder": 0,
   "ClipsDescendants": false,
   "BorderColor3": null,
@@ -22,5 +22,5 @@
   "BackgroundTransparency": 0,
   "BorderMode": null,
   "BorderSizePixel": 0,
-  "BackgroundColor3": null
+  "BackgroundColor3": [0, 123, 255]
 }
