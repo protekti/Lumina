@@ -2,6 +2,7 @@
   "LayoutOrder": 0,
   "Active": true,
   "Interactable": true,
+  "TextScaled": true,
   "GuiState": null,
   "AnchorPoint": [0.5,0.5],
   "SizeConstraint": null,
